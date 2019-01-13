@@ -39,7 +39,7 @@ This guide details how you can use an inexpensive 5v relay to turn a 3d printer 
 ## software configuration
 - install printer_off.py and printer_on.py scripts in /home/pi on raspberry pi
 - set permissions on scripts - chmod 750 /home/pi/printer_*.py
-- configure octoprint shutdown command to run /home/pi/printer_off.py - settings > pctoprint > server < system shutdown
+- configure octoprint shutdown command to run /home/pi/printer_off.py - settings > octoprint > server > system shutdown
 - configure PSU control plugin to run /usr/bin/python /home/pi/printer_on.py for on system command
 - configure PSU control plugin to run /usr/bin/python /home/pi/printer_off.py for off system command
 
