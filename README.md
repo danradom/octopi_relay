@@ -5,7 +5,7 @@ This guide details how you can use an inexpensive 5v relay to turn a 3d printer 
 
 
 ## hardware reqirements
-- raspberry pi
+- raspberry pi(https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07BDR5PDW/)
 - 5v relay module
 - electrical outlet
 - some 24 awg wire
