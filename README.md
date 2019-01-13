@@ -24,8 +24,8 @@ This guide details how you can use an inexpensive 5v relay to turn a 3d printer 
 
 ## relay to pi wiring
 - connect GPIO 14 on raspberry pi to signal pin on relay
-- connect 5v on raspberry pi to positive pin on relay
-- connect ground on raspberry pi to negative on relay
+- connect GPIO 5v on raspberry pi to positive pin on relay
+- connect GPIO ground on raspberry pi to negative on relay
 
 
 ## relay electrical wiring
