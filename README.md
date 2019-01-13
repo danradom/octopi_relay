@@ -8,7 +8,7 @@ This guide details how you can use an inexpensive 5v relay to turn a 3d printer 
 - [raspberry pi](https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07BDR5PDW/)
 - [5v relay module](https://www.amazon.com/Tolako-Arduino-Indicator-Channel-Official/dp/B00VRUAHLE/)
 - [electrical outlet](https://www.amazon.com/Leviton-W5320-T0W-Resistant-Receptacle-Grounding/dp/B002DQT5UK/)
-- [4 awg wire](https://www.amazon.com/Houseables-Electrical-Electric-Assortment-Electronic/dp/B07CZT26DM/r) (https://www.amazon.com/SIM-NAT-Breadboard-Arduino-Raspberry/dp/B06XRV92ZB/)
+- [4 awg wire](https://www.amazon.com/Houseables-Electrical-Electric-Assortment-Electronic/dp/B07CZT26DM/)
 - [2 power cords](https://www.amazon.com/Cable-Matters-2-Pack-Heavy-Extension/dp/B0153T1LSM/)
 - soldering iron
 - solder
