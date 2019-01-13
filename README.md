@@ -17,9 +17,9 @@ This guide details how you can use an inexpensive 5v relay to turn a 3d printer 
 
 
 ## software requirements
-- a working octopi / octoprint installation
-- octoprint automatic shutdown plugin
-- octoprint PSU control plugin
+- [working octopi / octoprint installation](https://octoprint.org/download/)
+- [octoprint automatic shutdown plugin](https://plugins.octoprint.org/plugins/automaticshutdown/)
+- [octoprint PSU control plugin](https://plugins.octoprint.org/plugins/psucontrol/)
 
 
 ## relay to pi wiring
