@@ -53,3 +53,8 @@ This guide details how you can use an inexpensive 5v relay to turn a 3d printer 
 ## note
 - The PSU control plugin is not aware of an uttomatic shutdown, so when this occurs you will need to toggle the printer off (even though it is already off) in order to turn it on via the PSU control button.
 - Use the PSU control button in octoprint to turn printer on / off
+
+
+## scripts
+- [printer on script](scripts/printer_on.py
+- [printer off script](scripts/printer_off.py
