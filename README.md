@@ -61,3 +61,5 @@ This guide details how you can use an inexpensive 5v relay to turn a 3d printer 
 
 
 ## images
+- [ electrical outlet part](images/outlet.jpg)
+- [ relay part](images/relay.jpg)
