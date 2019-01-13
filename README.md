@@ -61,5 +61,10 @@ This guide details how you can use an inexpensive 5v relay to turn a 3d printer 
 
 
 ## images
-- [ electrical outlet part](images/outlet.jpg)
-- [ relay part](images/relay.jpg)
+- [electrical outlet part](images/outlet.jpg)
+- [relay part](images/relay.jpg)
+- [raspberry pi pinout](images/pi_pinout.jpg)
+- [raspberry pi GPIO wiring](images/pi_wiring.jpg)
+- [wired relay 1](images/relay_wired-1.jpg)
+- [wired relay 2](images/relay_wired-2.jpg)
+- [wired relay 3](images/relay_wired-3.jpg)
