@@ -68,3 +68,4 @@ This guide details how you can use an inexpensive 5v relay to turn a 3d printer 
 - [wired relay 1](images/relay_wired-1.jpg)
 - [wired relay 2](images/relay_wired-2.jpg)
 - [wired relay 3](images/relay_wired-3.jpg)
+- [completed project](images/complete.jpg)
