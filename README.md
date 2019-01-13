@@ -4,6 +4,9 @@
 This guide details how you can use an inexpensive 5v relay to turn a 3d printer off automatically when a print job finishes.
 
 
+
+
+
 ## hardware reqirements
 - raspberry pi
 - 5v relay module
