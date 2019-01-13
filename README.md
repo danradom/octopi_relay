@@ -56,5 +56,8 @@ This guide details how you can use an inexpensive 5v relay to turn a 3d printer 
 
 
 ## scripts
-- [printer on script](scripts/printer_on.py
-- [printer off script](scripts/printer_off.py
+- [printer on script](scripts/printer_on.py)
+- [printer off script](scripts/printer_off.py)
+
+
+## images
